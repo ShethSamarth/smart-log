@@ -1,5 +1,5 @@
 {
-  "name": "smart-log",
+  "name": "smart-log-ss",
   "version": "1.0.0",
   "description": "A library to Colorify your Console Logs",
   "main": "lib/index.js",
